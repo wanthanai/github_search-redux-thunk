@@ -30,7 +30,9 @@ export const thunk_action_creator = username => {
                 if (data.message === "Not Found") {
                     throw new Error("No such user found!");
                 } else{
-                    dispatch(receive_post(data))
+                    setTimeout(() => {
+                        dispatch(receive_post(data))
+                    }, 650)
                     // console.log(data);
                 } 
             })
