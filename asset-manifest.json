@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github_search-redux-thunk/static/css/main.12d30f2d.chunk.css",
+    "main.js": "/github_search-redux-thunk/static/js/main.65c69661.chunk.js",
+    "main.js.map": "/github_search-redux-thunk/static/js/main.65c69661.chunk.js.map",
+    "runtime-main.js": "/github_search-redux-thunk/static/js/runtime-main.5c17ccbc.js",
+    "runtime-main.js.map": "/github_search-redux-thunk/static/js/runtime-main.5c17ccbc.js.map",
+    "static/js/2.80b5d499.chunk.js": "/github_search-redux-thunk/static/js/2.80b5d499.chunk.js",
+    "static/js/2.80b5d499.chunk.js.map": "/github_search-redux-thunk/static/js/2.80b5d499.chunk.js.map",
+    "index.html": "/github_search-redux-thunk/index.html",
+    "static/css/main.12d30f2d.chunk.css.map": "/github_search-redux-thunk/static/css/main.12d30f2d.chunk.css.map",
+    "static/js/2.80b5d499.chunk.js.LICENSE.txt": "/github_search-redux-thunk/static/js/2.80b5d499.chunk.js.LICENSE.txt",
+    "static/js/main.65c69661.chunk.js.LICENSE.txt": "/github_search-redux-thunk/static/js/main.65c69661.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/github_search-redux-thunk/static/media/Ripple-1s-200px.bad86910.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c17ccbc.js",
+    "static/js/2.80b5d499.chunk.js",
+    "static/css/main.12d30f2d.chunk.css",
+    "static/js/main.65c69661.chunk.js"
+  ]
+}
